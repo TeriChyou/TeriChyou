@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TeriChyou
 - 👀 I’m interested in Website Developing and Game Developing.
 - 🌱 I’m currently learning Python, C language, Java, HTML, CSS, Javascript
-- 💞️ I’m looking to collaborate on a girl friend.
+- 💞️ I’m looking to collaborate on a GF (who has willing cosplaying.
 - 📫 How to reach me..., idk, don't ask me :p.
 
 <!---
