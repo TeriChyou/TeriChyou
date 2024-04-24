@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @TeriChyou
-- 👀 I’m interested in Website Developing and Game Developing.
-- 🌱 I’m currently learning Python, C language, Java, HTML, CSS, Javascript
+- 👀 I’m a front-end mixed with slight of back-end engineer.
+- 🌱 I’m currently learning Python, C language, Java, Dart(Flutter).
 - 💞️ I’m looking to collaborate on a GF (who has willing cosplaying.
-- 📫 How to reach me..., idk, don't ask me :p.
+- 📫 How to reach me..., on my instagram.
 
 <!---
 TeriChyou/TeriChyou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
